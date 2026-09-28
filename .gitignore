@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Google OAuth credentials
+client_secret.json
+token.json
+
+# Local email processing data
+processed_emails.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
